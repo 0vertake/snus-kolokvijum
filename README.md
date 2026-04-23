@@ -1,6 +1,6 @@
 # Industrial Processing System
 
-Kolokvijum 1 — Softverski nadzorno-upravljački sistemi 2026
+Kolokvijum 1 — Softverski nadzorno-upravljački sistemi - 2026
 
 A thread-safe industrial job processing system built in C# (.NET 9) with async execution, priority queuing, event-driven architecture, and automatic reporting.
 
